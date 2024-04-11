@@ -1,7 +1,3 @@
-# 💫 About Me:
-¡Hola!<br>TG: https://t.me/ClassyCoder<br><br>Soy ClassyCoder, un programador. ¡Tengo experiencia con Java, Kotlin, Javascript, Typecript, PHP, CSS, HTML y Ruby!
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ClassyCoder1) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/@ClassyCoder1) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/classycoder1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ClassyCoder1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ClassyCoder) 
 
